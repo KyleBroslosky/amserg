@@ -1,0 +1,4 @@
+<first>
+{
+image-url: https://cdn.discordapp.com/attachments/619602414508441620/619809980295544872/amserg4.png;
+}
